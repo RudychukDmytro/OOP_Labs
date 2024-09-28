@@ -22,7 +22,7 @@
 ### Список Лабораторних Робіт
 
 1. [Лабораторна Робота 1](https://github.com/RudychukDmytro/OOP_Labs_1/tree/09ca9872c4fd7c36ab386ee3d1d88be26dcdf384) - Робота з файлами
-
+2. [Лабораторна Робота 1](https://github.com/RudychukDmytro/OOP_Labs_2.git) - Робота з класами
 
 ## Як Клонувати Репозиторій з Підмодулями
 
