@@ -23,6 +23,7 @@
 
 1. [Лабораторна Робота 1](https://github.com/RudychukDmytro/OOP_Labs_1/tree/09ca9872c4fd7c36ab386ee3d1d88be26dcdf384) - Робота з файлами
 2. [Лабораторна Робота 2](https://github.com/RudychukDmytro/OOP_Labs_2.git) - Робота з класами
+3. [Лабораторна Робота 3](https://github.com/RudychukDmytro/OOP_Labs_3.git) - Конструктори та деструктори
 
 ## Як Клонувати Репозиторій з Підмодулями
 
