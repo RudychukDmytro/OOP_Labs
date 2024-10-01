@@ -1,9 +1,12 @@
 [submodule "Lab_1_OOP_Cpp"]
 	path = Lab_1_OOP_Cpp
 	url = https://github.com/RudychukDmytro/OOP_Labs_1.git
+	branch = main
 [submodule "Lab_2_OOP_cpp"]
 	path = Lab_2_OOP_cpp
 	url = https://github.com/RudychukDmytro/OOP_Labs_2
+	branch = main
 [submodule "Lab_3_OOP_Cpp"]
 	path = Lab_3_OOP_Cpp
 	url = https://github.com/RudychukDmytro/OOP_Labs_3.git
+	branch = master
