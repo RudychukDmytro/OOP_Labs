@@ -10,3 +10,7 @@
 	path = Lab_3_OOP_Cpp
 	url = https://github.com/RudychukDmytro/OOP_Labs_3.git
 	branch = master
+[submodule "Lab_4_OOP_Cpp"]
+	path = Lab_4_OOP_Cpp
+	url = https://github.com/RudychukDmytro/OOP_Labs_4
+	branch = master
