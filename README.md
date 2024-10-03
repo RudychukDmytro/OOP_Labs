@@ -24,7 +24,7 @@
 1. [Лабораторна Робота 1](https://github.com/RudychukDmytro/OOP_Labs_1.git) - Робота з файлами
 2. [Лабораторна Робота 2](https://github.com/RudychukDmytro/OOP_Labs_2.git) - Робота з класами
 3. [Лабораторна Робота 3](https://github.com/RudychukDmytro/OOP_Labs_3.git) - Конструктори та деструктори
-4. [Лабораторна робота 4](https://github.com/RudychukDmytro/OOP_Labs_4) - Наслідування, множинне наслідування
+4. [Лабораторна Робота 4](https://github.com/RudychukDmytro/OOP_Labs_4) - Наслідування, множинне наслідування
 
 ## Як Клонувати Репозиторій з Підмодулями
 
