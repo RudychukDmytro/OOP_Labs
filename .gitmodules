@@ -26,3 +26,7 @@
 	path = Lab_7_OOP_Cpp
 	url = https://github.com/RudychukDmytro/OOP_Labs_7
 	branch = master
+[submodule "Lab_8_OOP_Cpp"]
+	path = Lab_8_OOP_Cpp
+	url = https://github.com/RudychukDmytro/OOP_lab_8
+	branch = master

@@ -28,6 +28,7 @@
 5. [Лабораторна робота 5](https://github.com/RudychukDmytro/OOP_Labs_5) - Поліморфізм, віртуальні функції,абстрактні класи
 6. [Лабораторна робота 6](https://github.com/RudychukDmytro/OOP_Labs_6) - Перевантаження операторів, шаблони в С++
 7. [Лабораторна робота 7](https://github.com/RudychukDmytro/OOP_Labs_7) - Бібліотека STL. Контейнери, літератори, предикати в С++
+8. 7. [Лабораторна робота 8](https://github.com/RudychukDmytro/OOP_Labs_8) - Windows Form Applications
 
 ## Як Клонувати Репозиторій з Підмодулями
 
